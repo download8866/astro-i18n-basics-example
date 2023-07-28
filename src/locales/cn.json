@@ -1,0 +1,23 @@
+{
+  "pageTitle": "欢迎来到Astro.",
+  "welcome": "欢迎来到<0>Astro</0>",
+  "instructions": "签出 <0>src/pages</0> 目录即可开始。<1><2>代码挑战：</2> 使用您选择的语言翻译此页面。",
+  "cards": {
+    "documentation": {
+      "title": "文档",
+      "body": "了解Astro的工作原理并浏览文档。"
+    },
+    "integrations": {
+      "title": "接口",
+      "body": "使用新的框架和库来增强您的项目。"
+    },
+    "themes": {
+      "title": "主题",
+      "body": "探索一系列社区构建的入门主题。"
+    },
+    "chat": {
+      "title": "沟通",
+      "body": "来向我们令人惊叹的Discord社区问好吧。❤️"
+    }
+  }
+}
